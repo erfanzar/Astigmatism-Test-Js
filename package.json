@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@tensorflow-models/blazeface": "^0.0.7",
+    "@tensorflow-models/face-detection": "^1.0.1",
     "@tensorflow-models/hand-pose-detection": "^2.0.0",
     "@tensorflow/tfjs": "^3.19.0",
     "@testing-library/jest-dom": "^5.16.5",
